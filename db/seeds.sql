@@ -10,7 +10,6 @@ VALUES
 
 SELECT * FROM department;
 
-
 -- ROLES
 INSERT INTO role (title, salary, department_id)
 VALUES 
@@ -25,7 +24,6 @@ VALUES
 ("Sales Representative", 60000.00, 6);
 
 SELECT * FROM role;
-
 
 -- EMPLOYEES
 
